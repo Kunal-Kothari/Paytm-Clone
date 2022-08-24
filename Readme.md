@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Paytm-Clone-orange)
 ![](https://img.shields.io/badge/Tailwind-CSS-yellowgreen)
 ![](https://img.shields.io/badge/Responsive-yes-lightgrey)
-[Live Link]([https://product-design-landing-page-1.netlify.app/](https://paytm-clone-tailwind-css-home-page.netlify.app/))
+[Live Link](https://paytm-clone-tailwind-css-home-page.netlify.app/)
 ## Screenshorts
 ![Screeshort](Screenshots/full-screen.png)
    * * *
